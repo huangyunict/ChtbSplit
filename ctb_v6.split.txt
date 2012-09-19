@@ -1,0 +1,61 @@
+#   * for test
+#   d for dev
+#   a for train
+#   m for missing, they are all training files
+
+* chtb_0001.fid -- chtb_0040.fid
+d chtb_0041.fid -- chtb_0080.fid
+a chtb_0081.fid -- chtb_0325.fid
+a chtb_0400.fid -- chtb_0454.fid
+a chtb_0600.fid -- chtb_0885.fid
+m chtb_0886.fid -- chtb_0899.fid
+a chtb_0900.fid
+
+* chtb_0901.fid -- chtb_0931.fid
+
+a chtb_0500.fid -- chtb_0554.fid
+a chtb_0590.fid -- chtb_0596.fid
+a chtb_1001.fid -- chtb_1017.fid
+* chtb_1018.fid
+a chtb_1019.fid
+* chtb_1020.fid
+a chtb_1021.fid -- chtb_1035.fid
+* chtb_1036.fid
+a chtb_1037.fid -- chtb_1043.fid
+* chtb_1044.fid
+a chtb_1045.fid -- chtb_1059.fid
+* chtb_1060.fid
+* chtb_1061.fid
+a chtb_1062.fid -- chtb_1071.fid
+* chtb_1072.fid
+a chtb_1073.fid -- chtb_1078.fid
+a chtb_1100.fid -- chtb_1117.fid
+* chtb_1118.fid
+* chtb_1119.fid
+d chtb_1120.fid -- chtb_1129.fid
+a chtb_1130.fid
+a chtb_1131.fid
+* chtb_1132.fid
+a chtb_1133.fid -- chtb_1140.fid
+* chtb_1141.fid
+* chtb_1142.fid
+a chtb_1143.fid -- chtb_1147.fid
+* chtb_1148.fid
+a chtb_1149.fid -- chtb_1151.fid
+a chtb_2000.fid -- chtb_2139.fid
+d chtb_2140.fid -- chtb_2159.fid
+a chtb_2160.fid -- chtb_2164.fid
+* chtb_2165.fid -- chtb_2180.fid
+a chtb_2181.fid -- chtb_2279.fid
+d chtb_2280.fid -- chtb_2294.fid
+* chtb_2295.fid -- chtb_2310.fid
+a chtb_2311.fid -- chtb_2549.fid
+d chtb_2550.fid -- chtb_2569.fid
+* chtb_2570.fid -- chtb_2602.fid
+a chtb_2603.fid -- chtb_2774.fid
+d chtb_2775.fid -- chtb_2799.fid
+* chtb_2800.fid -- chtb_2819.fid
+a chtb_2820.fid -- chtb_3079.fid
+d chtb_3080.fid -- chtb_3109.fid
+* chtb_3110.fid -- chtb_3145.fid
+
